@@ -20,7 +20,7 @@ export default class Article extends React.Component<{}> {
             <Text style={styles.timestamp}>1st Jan 2025</Text>
           </View>
         </View>
-        <Text style={styles.title}>Lorem Ipsum</Text>
+        <Text style={styles.title}>What the DUCK?</Text>
         <Text style={styles.paragraph}>
           Contrary to popular belief, Lorem Ipsum is not simply random text. It
           has roots in a piece of classical Latin literature from 45 BC, making

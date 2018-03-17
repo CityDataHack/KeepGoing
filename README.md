@@ -4,13 +4,23 @@ That's the repository of the team "Keep Going". The project is about Social Isol
 
 If you need to contact us or drop some commits and upgrade our project feel free to do so.
 
-## Team Keep Going
+## Team Keep Going
 
 Software Engineering:
+- [Ioannis Valasakis](http://github.com/wizofe) (Twitting at: [@wizofe](http://twitter.com/wizofe))
+
+City Specialist:
+- [Shivani Bhatnagar](http://github.com/Shivani233) (Twittwing at: [@ShivaniBhatna15](http://twitter.com/ShivaniBhatna15))
 
 Data Analysis:
+-
 
 UI/UX:
+-
+
+Art & Design:
+-
 
 ## License
+
 The project is licensed under the MIT License. For more details have a look at the LICENSE file.
