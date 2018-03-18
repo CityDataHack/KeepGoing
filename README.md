@@ -9,6 +9,9 @@ If you need to contact us or drop some commits and upgrade our project feel free
 Software Engineering:
 - [Ioannis Valasakis](http://github.com/wizofe) (Twitting at: [@wizofe](http://twitter.com/wizofe))
 
+Developer:
+- [James Tang](http://github.com/jcct100) (Twitting at: [@jcctang](http://twitter.com/jcctang))
+
 City Specialist:
 - [Shivani Bhatnagar](http://github.com/Shivani233) (Twittwing at: [@ShivaniBhatna15](http://twitter.com/ShivaniBhatna15))
 
