@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
-import './tree.dart' as tree;
+import 'tree.dart' as tree;
+import 'map.dart' as map;
+import 'newchat.dart' as newchat;
+import 'profile.dart' as profile;
+import 'login/login_page.dart';
+import 'login/home_page.dart';
 
 void main() {
   runApp(new TabBarDemo());
@@ -15,20 +20,21 @@ class TabBarDemo extends StatelessWidget {
           appBar: new AppBar(
             bottom: new TabBar(
               tabs: [
+                new Tab(icon: new Icon(Icons.accessibility_new)),
                 new Tab(icon: new Icon(Icons.track_changes)),
                 new Tab(icon: new Icon(Icons.chat)),
                 new Tab(icon: new Icon(Icons.map)),
-                new Tab(icon: new Icon(Icons.accessibility_new)),
               ],
             ),
             title: new Text('Keep Going'),
+            backgroundColor: Colors.deepOrange,
           ),
           body: new TabBarView(
             children: <Widget>[
+              new LoginPage(),
               new tree.Tree(),
-              new Icon(Icons.directions_transit),
-              new Icon(Icons.directions_bike),
-              new Icon(Icons.directions_bike),
+              new newchat.ChatScreen(),
+              new map.Map(),
             ],
           ),
         ),
