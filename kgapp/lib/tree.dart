@@ -6,7 +6,7 @@ class Tree extends StatelessWidget {
     return new DecoratedBox(
       decoration: new BoxDecoration (
         image: new DecorationImage(
-          image: new AssetImage('assets/barkmap.png'),
+          image: new AssetImage('assets/tree.jpeg'),
               ),
       ),
     );
